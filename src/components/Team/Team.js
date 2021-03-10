@@ -43,7 +43,7 @@ const Team = ({ idTeam, strTeam, strTeamBadge, strSport }) => {
             size="large"
             color="secondary"
           >
-            Read More
+            Explore
           </Button>
         </CardActions>
       </Card>
